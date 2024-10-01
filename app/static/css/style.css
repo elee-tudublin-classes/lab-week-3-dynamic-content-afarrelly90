@@ -4,6 +4,10 @@ h1 {
     color: red;
 }
 
+a{
+    color:black;
+}
+
 #browserTime {
     color: blue;
 }
